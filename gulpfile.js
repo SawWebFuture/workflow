@@ -9,6 +9,7 @@ var jsSources = [
 	'components/scripts/pixgrid.js',
 	'components/scripts/tagline.js',
 	'components/scripts/template.js',
+	'components/scripts/shadowbox.js'
 ];
 	
 gulp.task('coffee', function (){
