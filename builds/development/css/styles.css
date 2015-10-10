@@ -1,0 +1,77 @@
+
+
+/* **************************************************
+
+	Main Content
+	
+************************************************** */
+a{color:black;}
+a:hover{text-decoration: none;}
+.media img{
+	width:150px;
+}
+.nav-tabs {
+margin-bottom: 10px;
+}
+
+.img-circle:hover{border: 1px solid #337ab7;}
+.img-circle{border: 1px solid #ddd;}
+.contactInfo img{width:60px;}
+.graphspert img{width:60px;}
+.expert img{
+	width:100px;
+}
+.modal-body img{width:100%; height:100%;}
+.hireMe button{width:350px;}
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+h1{font-family: 'Karla', sans-serif;}
+#workflow{position:relative;}
+.copyright{font-size:10px;}
+.navbar-default{
+	width:100%;
+	z-index:100;
+}
+@media screen and (max-width:767px){
+.tabimgs img{
+	width:130px;
+}
+}
+
+.imgHead{padding:20px 0;}
+
+.hr, .hrFlip{background-image:url('../images/fade_bar.jpg'); height:23px; margin:30px 0 10px 0; 
+	border-top:1px solid white;}
+
+
+	
+	/* 	
+	
+.jumbotron{background-image:url('../images/topBG.png'); 
+	background-position:center center;
+	background-size:cover;}
+	
+@media screen and (min-width:30em){
+	.single-nav ul{
+		display:flex;
+		justify-content:space-between;
+		flex-wrap:wrap;
+		
+	}
+	.single-nav li{
+		flex: 1 0 auto;
+		text-align:center;
+	}
+}*/
+.topDesign{background-image:url(../images/top_bar.jpg); height:22px;}
+.logo{margin-right:10%;}
+.jumbotron{border-bottom:1px solid grey; margin-bottom: 10px;}
+
+footer{background-color:#303030; padding-top:20px; color:white;}
+footer .thumbnail{background-color:#303030;}
+ul{list-style-type: none; padding-left:0px;}
+footer ul li a{color:white;}
+footer ul li a:hover{color:yellow;}
