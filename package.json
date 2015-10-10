@@ -7,5 +7,9 @@
     "type": "git",
     "url": "?.git"
   },
-  "author": "Scott Williams"
+  "author": "Scott Williams",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6"
+  }
 }
